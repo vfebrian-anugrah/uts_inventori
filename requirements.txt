@@ -1,0 +1,2 @@
+# Tidak ada dependency eksternal.
+# Aplikasi ini hanya memakai Python standard library (Python 3.10 atau lebih baru).

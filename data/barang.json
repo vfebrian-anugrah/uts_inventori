@@ -1,0 +1,5 @@
+[
+  {"kode": "ATK-001", "nama": "Pensil 2B", "kategori": "Alat Tulis", "stok": 120, "harga": 3000, "stok_minimum": 20},
+  {"kode": "KRT-003", "nama": "Sticky Notes", "kategori": "Kertas", "stok": 0, "harga": 7500, "stok_minimum": 5},
+  {"kode": "ELK-003", "nama": "Flashdisk 32GB", "kategori": "Elektronik", "stok": 4, "harga": 65000, "stok_minimum": 5}
+]
