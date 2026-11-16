@@ -1,0 +1,12 @@
+kode,nama,kategori,stok,harga,stok_minimum
+ATK-001,Pensil 2B,Alat Tulis,120,3000,20
+ATK-002,Bolpoin Hitam,Alat Tulis,8,4500,15
+ATK-003,Penghapus,Alat Tulis,45,2000,10
+KRT-001,Kertas A4 80gsm,Kertas,30,52000,10
+KRT-002,Buku Tulis 38 Lembar,Kertas,6,5500,12
+KRT-003,Sticky Notes,Kertas,0,7500,5
+ELK-001,Kalkulator Ilmiah,Elektronik,9,185000,3
+ELK-002,Baterai AA,Elektronik,60,12000,20
+ELK-003,Flashdisk 32GB,Elektronik,4,65000,5
+PRL-001,Lakban Bening,Perlengkapan,15,6000,5
+PRL-002,Gunting,Perlengkapan,12,8500,5

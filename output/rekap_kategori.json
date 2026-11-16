@@ -1,0 +1,32 @@
+{
+  "total_item": 11,
+  "total_nilai_stok": 4916000,
+  "rekap_per_kategori": {
+    "Alat Tulis": {
+      "jumlah_item": 3,
+      "total_stok": 173,
+      "nilai_stok": 486000
+    },
+    "Elektronik": {
+      "jumlah_item": 3,
+      "total_stok": 73,
+      "nilai_stok": 2645000
+    },
+    "Kertas": {
+      "jumlah_item": 3,
+      "total_stok": 36,
+      "nilai_stok": 1593000
+    },
+    "Perlengkapan": {
+      "jumlah_item": 2,
+      "total_stok": 27,
+      "nilai_stok": 192000
+    }
+  },
+  "stok_menipis": [
+    "ATK-002",
+    "KRT-002",
+    "KRT-003",
+    "ELK-003"
+  ]
+}

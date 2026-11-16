@@ -1,0 +1,4 @@
+data_ke,alasan
+11,kolom 'stok' harus bilangan bulat (diterima: 'abc')
+12,harga harus lebih dari 0
+13,kolom 'kode' tidak boleh kosong
